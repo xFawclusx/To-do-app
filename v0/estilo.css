@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+.botones{
+    text-align: center;
+}
+ol{
+    
+    text-align: center;
+    padding: 20px;
+    
+}
+ol li{
+     
+    border: solid 2px black  ;
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
